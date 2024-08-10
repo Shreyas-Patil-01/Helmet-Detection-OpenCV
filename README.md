@@ -44,9 +44,7 @@ This project offers a robust solution for detecting helmets in video feeds, enha
 4. **Output**: The system outputs the video with visual annotations indicating helmet usage.
 
 ### Visual Representation
-![Project Workflow](https://github.com/Shreyas-Patil-01/PromQL/blob/main/model_deployed_img.png)
-![Project Workflow](https://github.com/Shreyas-Patil-01/PromQL/blob/main/Fine_tuned_model_details.png)
-![Project Workflow](https://github.com/Shreyas-Patil-01/PromQL/blob/main/output_video.mp4)
+![Project Workflow](https://github.com/Shreyas-Patil-01/Helmet-Detection-OpenCV/blob/main/helmet%20detected.png)
 
 These images illustrate the system's process and the output it generates.
 
@@ -77,8 +75,8 @@ To use this model, follow the steps below:
 5. Access through its endpoint by requesting the model.
 
 ### Installation
-Clone this repository and install the required dependencies:
-git clone https://github.com/Shreyas-Patil-01/Helmet-Detection-OpenCV.git
-cd Helmet-Detection-OpenCV
-pip install -r requirements.txt
+-Clone this repository and install the required dependencies:
+-git clone https://github.com/Shreyas-Patil-01/Helmet-Detection-OpenCV.git
+-cd Helmet-Detection-OpenCV
+-pip install -r requirements.txt
 
